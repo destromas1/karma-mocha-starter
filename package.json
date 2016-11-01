@@ -1,0 +1,17 @@
+{
+  "name": "ng-gulp-karma-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^2.3.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-mocha": "^1.2.0",
+    "mocha": "^3.1.2"
+  }
+}
